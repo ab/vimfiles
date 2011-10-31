@@ -1,0 +1,14 @@
+http://amix.dk/blog/post/19486#The-ultimate-vim-configuration-vimrc
+	surround.vim: http://www.vim.org/scripts/script.php?script_id=1697
+
+http://net.tutsplus.com/tutorials/other/vim-essential-plugin-nerdtree/
+http://www.catonmat.net/blog/vim-plugins-nerdtree-vim/
+Nerdtree: http://www.vim.org/scripts/script.php?script_id=1658
+
+buffers:
+	http://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers
+	http://stackoverflow.com/questions/1649187/vim-minibufexpl-versus-bufexplorer-plugins
+	buftabs: http://www.vim.org/scripts/script.php?script_id=1664
+	bufexplorer: http://www.vim.org/scripts/script.php?script_id=42
+	minibufexpl: https://github.com/fholgado/minibufexpl.vim
+		http://vim.sourceforge.net/scripts/script.php?script_id=159

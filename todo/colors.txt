@@ -1,0 +1,14 @@
+http://programmers.stackexchange.com/questions/66997/what-is-your-favorite-colorscheme-for-programming-in-vim
+http://code.google.com/p/vimcolorschemetest/
+
+desert -- ugly string colors (yellow/orange)
+desert256 -- too many different colors
+zenburn
+peaksea -- colors are too subtle
+
+try all with set t_Co=256 or =8?
+
+add TODO in a sample file
+
+try just changing comment color in default bg=dark scheme
+

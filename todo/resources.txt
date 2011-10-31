@@ -1,0 +1,3 @@
+github
+http://www.vim.org/scripts/
+http://vim.wikia.com/

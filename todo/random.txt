@@ -1,0 +1,1 @@
+snipMate, fugitive (for git)
