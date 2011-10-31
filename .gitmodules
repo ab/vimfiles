@@ -1,0 +1,36 @@
+[submodule "bundle/closetag.vim"]
+	path = bundle/closetag.vim
+	url = git://github.com/vim-scripts/closetag.vim.git
+[submodule "bundle/detectindent"]
+	path = bundle/detectindent
+	url = git://github.com/ciaranm/detectindent.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = git://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/tcomment_vim"]
+	path = bundle/tcomment_vim
+	url = git://github.com/tomtom/tcomment_vim.git
+[submodule "bundle/vim-abolish"]
+	path = bundle/vim-abolish
+	url = git://github.com/tpope/vim-abolish.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git://github.com/tpope/vim-markdown.git
+[submodule "bundle/vim-pathogen"]
+	path = bundle/vim-pathogen
+	url = git://github.com/tpope/vim-pathogen.git
+[submodule "bundle/vim-processing"]
+	path = bundle/vim-processing
+	url = git://github.com/sophacles/vim-processing.git
+[submodule "bundle/vim-repeat"]
+	path = bundle/vim-repeat
+	url = git://github.com/tpope/vim-repeat.git
+[submodule "bundle/vim-scala"]
+	path = bundle/vim-scala
+	url = git://github.com/derekwyatt/vim-scala.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git://github.com/tpope/vim-surround.git
