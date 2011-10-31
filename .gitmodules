@@ -34,3 +34,6 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = git://github.com/tpope/vim-surround.git
+[submodule "bundle/jquery.vim"]
+	path = bundle/jquery.vim
+	url = git://github.com/nono/jquery.vim.git
