@@ -55,3 +55,6 @@
 [submodule "bundle/TaskList.vim"]
 	path = bundle/TaskList.vim
 	url = git://github.com/vim-scripts/TaskList.vim.git
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = git://github.com/klen/python-mode.git
