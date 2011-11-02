@@ -52,3 +52,6 @@
 [submodule "bundle/gundo.vim"]
 	path = bundle/gundo.vim
 	url = git://github.com/sjl/gundo.vim.git
+[submodule "bundle/TaskList.vim"]
+	path = bundle/TaskList.vim
+	url = git://github.com/vim-scripts/TaskList.vim.git

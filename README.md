@@ -6,6 +6,9 @@ Included Bundles
 
 TODO
 
+- TaskList: display a list of occurrences of TODO, XXX, etc. in a buffer.
+  Trigger it with <leader>t.
+
 
 Managing Submodules
 -------------------
