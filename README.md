@@ -1,3 +1,4 @@
+<!-- vim: set sw=2: -->
 Vim
 ===
 
@@ -30,12 +31,17 @@ TODO
 
 - [TaskList](https://github.com/vim-scripts/TaskList.vim): display a list of
   occurrences of TODO, XXX, etc. in a buffer. Trigger it with <leader>t.
-
+- [TComment](https://github.com/tomtom/tcomment_vim): toggle comments.
+  Trigger it with `gc{motion}`, `gC{motion}`, or the `<c-_>` or `<leader>_`
+  prefixes. See `:help tcomment`.
+- [Closetag](https://github.com/vim-scripts/closetag.vim): close HTML tags.
+  Trigger it with `<c-_>` by default. I map it to `<c-/>`, which works better
+  with TComment.
 
 ### Bundles in ./etc ###
 
 - [Python-Mode](https://github.com/klen/python-mode): Nice integration with
-  Python tools like PyLint and Rope.
+  Python tools like PyLint and Rope. I found it too intrusive for regular use.
 
 
 Managing Submodules
