@@ -30,6 +30,10 @@ TODO
 
 - [TaskList](https://github.com/vim-scripts/TaskList.vim): display a list of
   occurrences of TODO, XXX, etc. in a buffer. Trigger it with <leader>t.
+
+
+### Bundles in ./etc ###
+
 - [Python-Mode](https://github.com/klen/python-mode): Nice integration with
   Python tools like PyLint and Rope.
 
