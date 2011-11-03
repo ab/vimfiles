@@ -1,11 +1,12 @@
-<!-- vim: set sw=2: -->
+<!-- vim: set sw=2 tw=79: -->
 Vim
 ===
 
-Train
------
+Steam Locomotive
+----------------
 
 ```
+
                         (@@) (  ) (@@) ( )  (@)  ()    @@    O     @     O
                   (   )
               (@@@@)
@@ -22,7 +23,10 @@ Train
  __/ =| o |=-~~\  /~~\  /~~\  /~~\ ____Y___________|__|____________________|_
   |/-=|___|=    ||    ||    ||    |_____/~\___/          |_D__D |_D__D__D_|
    \_/      \_O=====O=====O=====O/      \_/               \_/    \_/   \_/
+
 ```
+
+(This locomotive is courtesy of `sl`, by Toyoda Masashi.)
 
 Included Bundles
 ----------------
@@ -50,10 +54,12 @@ TODO
 Managing Submodules
 -------------------
 
-*Getting Started:*
+### Getting Started ###
 
 `git submodule init`
 `git submodule update`
+
+### Help Tags ###
 
 If you find that git thinks you've modified your submodules when you create
 helptags files with pathogen's `:Helptags` command, try this:
