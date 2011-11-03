@@ -37,6 +37,9 @@ TODO
 - [Closetag](https://github.com/abrody/closetag.vim): close HTML tags.
   Trigger it with `<c-/>` by default. I map it to `<c-/>.`, which works better
   with TComment. My fork enables easy user configuration of the map key.
+- [Matchit.zip](https://github.com/vim-scripts/matchit.zip): extended %
+  matching for HTML, LaTeX, and many other languages. This has been included in
+  $VIMRUNTIME/macros/ for ages, but isn't enabled by default.
 
 ### Bundles in ./etc ###
 
