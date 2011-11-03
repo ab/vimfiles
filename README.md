@@ -34,7 +34,7 @@ TODO
 - [TComment](https://github.com/tomtom/tcomment_vim): toggle comments.
   Trigger it with `gc{motion}`, `gC{motion}`, or the `<c-_>` or `<leader>_`
   prefixes. See `:help tcomment`.
-- [Closetag](https://github.com/vim-scripts/closetag.vim): close HTML tags.
+- [Closetag](https://github.com/abrody/closetag.vim): close HTML tags.
   Trigger it with `<c-_>` by default. I map it to `<c-/>`, which works better
   with TComment.
 
