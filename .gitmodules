@@ -65,3 +65,6 @@
 [submodule "bundle/vim-puppet"]
 	path = bundle/vim-puppet
 	url = git://github.com/rodjek/vim-puppet.git
+[submodule "bundle/vim-gnupg"]
+	path = bundle/vim-gnupg
+	url = git://gitorious.org/vim-gnupg/vim-gnupg.git
