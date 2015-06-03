@@ -1,0 +1,16 @@
+- vim-expand-region:
+    https://github.com/terryma/vim-expand-region
+    visually select larger regions of text using same key combo
+- vim-airline:
+    nice looking well integrated status line
+    https://github.com/bling/vim-airline
+- vim-rsi
+    readline bindings for vim
+    should double check that they don't clobber stuff that I use
+    https://github.com/tpope/vim-rsi
+- vim-endwise
+    might be better than other auto-end tag adder things?
+    https://github.com/tpope/vim-endwise
+- practice using gn command
+- YouCompleteMe
+- <space> as leader?
