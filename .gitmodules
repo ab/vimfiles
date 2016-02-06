@@ -80,3 +80,6 @@
 [submodule "bundle/vim-known_hosts"]
 	path = bundle/vim-known_hosts
 	url = git://github.com/ab/vim-known_hosts.git
+[submodule "etc/vimpager"]
+	path = etc/vimpager
+	url = git://github.com/rkitover/vimpager.git
