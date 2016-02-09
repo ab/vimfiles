@@ -64,7 +64,7 @@
 	url = git://github.com/rodjek/vim-puppet.git
 [submodule "bundle/vim-gnupg"]
 	path = bundle/vim-gnupg
-	url = git://gitorious.org/vim-gnupg/vim-gnupg.git
+	url = git://github.com/jamessan/vim-gnupg.git
 [submodule "bundle/ctrlp.vim"]
 	path = bundle/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
