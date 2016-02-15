@@ -73,10 +73,10 @@
 	url = https://github.com/kchmck/vim-coffee-script.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = git@github.com:scrooloose/syntastic.git
+	url = git://github.com/scrooloose/syntastic.git
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
-	url = git@github.com:fatih/vim-go
+	url = git://github.com/fatih/vim-go
 [submodule "bundle/vim-known_hosts"]
 	path = bundle/vim-known_hosts
 	url = git://github.com/ab/vim-known_hosts.git
