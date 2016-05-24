@@ -83,3 +83,6 @@
 [submodule "etc/vimpager"]
 	path = etc/vimpager
 	url = git://github.com/rkitover/vimpager.git
+[submodule "bundle/vim-terraform"]
+	path = bundle/vim-terraform
+	url = git@github.com:hashivim/vim-terraform.git
