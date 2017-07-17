@@ -86,3 +86,6 @@
 [submodule "bundle/vim-terraform"]
 	path = bundle/vim-terraform
 	url = git://github.com/hashivim/vim-terraform.git
+[submodule "bundle/securemodelines"]
+	path = bundle/securemodelines
+	url = git://github.com/ciaranm/securemodelines.git
