@@ -1,70 +1,70 @@
 [submodule "bundle/closetag.vim"]
 	path = bundle/closetag.vim
-	url = git://github.com/ab/closetag.vim.git
+	url = https://github.com/ab/closetag.vim.git
     ; url = git@github.com:ab/closetag.vim.git
 [submodule "bundle/detectindent"]
 	path = bundle/detectindent
-	url = git://github.com/ciaranm/detectindent.git
+	url = https://github.com/ciaranm/detectindent.git
 [submodule "bundle/taglist.vim"]
 	path = bundle/taglist.vim
-	url = git://github.com/vim-scripts/taglist.vim.git
+	url = https://github.com/vim-scripts/taglist.vim.git
 [submodule "bundle/tcomment_vim"]
 	path = bundle/tcomment_vim
-	url = git://github.com/tomtom/tcomment_vim.git
+	url = https://github.com/tomtom/tcomment_vim.git
 [submodule "bundle/vim-abolish"]
 	path = bundle/vim-abolish
-	url = git://github.com/tpope/vim-abolish.git
+	url = https://github.com/tpope/vim-abolish.git
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
-	url = git://github.com/tpope/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
-	url = git://github.com/tpope/vim-markdown.git
+	url = https://github.com/tpope/vim-markdown.git
 [submodule "bundle/vim-pathogen"]
 	path = bundle/vim-pathogen
-	url = git://github.com/tpope/vim-pathogen.git
+	url = https://github.com/tpope/vim-pathogen.git
 [submodule "bundle/vim-processing"]
 	path = bundle/vim-processing
-	url = git://github.com/sophacles/vim-processing.git
+	url = https://github.com/sophacles/vim-processing.git
 [submodule "bundle/vim-repeat"]
 	path = bundle/vim-repeat
-	url = git://github.com/tpope/vim-repeat.git
+	url = https://github.com/tpope/vim-repeat.git
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
-	url = git://github.com/derekwyatt/vim-scala.git
+	url = https://github.com/derekwyatt/vim-scala.git
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
-	url = git://github.com/tpope/vim-surround.git
+	url = https://github.com/tpope/vim-surround.git
 [submodule "bundle/jquery.vim"]
 	path = bundle/jquery.vim
-	url = git://github.com/nono/jquery.vim.git
+	url = https://github.com/nono/jquery.vim.git
 [submodule "bundle/pydoc.vim"]
 	path = bundle/pydoc.vim
-	url = git://github.com/fs111/pydoc.vim.git
+	url = https://github.com/fs111/pydoc.vim.git
 [submodule "bundle/prolog.vim"]
 	path = bundle/prolog.vim
-	url = git://github.com/adimit/prolog.vim.git
+	url = https://github.com/adimit/prolog.vim.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
-	url = git://github.com/ervandew/supertab.git
+	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/vimroom"]
 	path = bundle/vimroom
-	url = git://github.com/mikewest/vimroom.git
+	url = https://github.com/mikewest/vimroom.git
 [submodule "bundle/gundo.vim"]
 	path = bundle/gundo.vim
-	url = git://github.com/sjl/gundo.vim.git
+	url = https://github.com/sjl/gundo.vim.git
 [submodule "bundle/TaskList.vim"]
 	path = bundle/TaskList.vim
-	url = git://github.com/vim-scripts/TaskList.vim.git
+	url = https://github.com/vim-scripts/TaskList.vim.git
 [submodule "etc/python-mode"]
 	path = etc/python-mode
-	url = git://github.com/klen/python-mode.git
+	url = https://github.com/klen/python-mode.git
 [submodule "bundle/vim-puppet"]
 	path = bundle/vim-puppet
-	url = git://github.com/rodjek/vim-puppet.git
+	url = https://github.com/rodjek/vim-puppet.git
 [submodule "bundle/vim-gnupg"]
 	path = bundle/vim-gnupg
-	url = git://github.com/jamessan/vim-gnupg.git
+	url = https://github.com/jamessan/vim-gnupg.git
 [submodule "bundle/ctrlp.vim"]
 	path = bundle/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim.git
@@ -73,28 +73,28 @@
 	url = https://github.com/kchmck/vim-coffee-script.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
-	url = git://github.com/scrooloose/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
-	url = git://github.com/fatih/vim-go
+	url = https://github.com/fatih/vim-go
 [submodule "bundle/vim-known_hosts"]
 	path = bundle/vim-known_hosts
-	url = git://github.com/ab/vim-known_hosts.git
+	url = https://github.com/ab/vim-known_hosts.git
 [submodule "etc/vimpager"]
 	path = etc/vimpager
-	url = git://github.com/rkitover/vimpager.git
+	url = https://github.com/rkitover/vimpager.git
 [submodule "bundle/vim-terraform"]
 	path = bundle/vim-terraform
-	url = git://github.com/hashivim/vim-terraform.git
+	url = https://github.com/hashivim/vim-terraform.git
 [submodule "bundle/securemodelines"]
 	path = bundle/securemodelines
-	url = git://github.com/ciaranm/securemodelines.git
+	url = https://github.com/ciaranm/securemodelines.git
 [submodule "bundle/vim-rhubarb"]
 	path = bundle/vim-rhubarb
 	url = git@github.com:tpope/vim-rhubarb.git
 [submodule "bundle/vim-liquid"]
 	path = bundle/vim-liquid
-	url = git://github.com/tpope/vim-liquid.git
+	url = https://github.com/tpope/vim-liquid.git
 [submodule "bundle/typescript-vim"]
 	path = bundle/typescript-vim
 	url = git@github.com:leafgarland/typescript-vim
