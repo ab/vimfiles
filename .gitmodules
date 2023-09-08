@@ -98,3 +98,6 @@
 [submodule "bundle/typescript-vim"]
 	path = bundle/typescript-vim
 	url = git@github.com:leafgarland/typescript-vim
+[submodule "bundle/vim-toml"]
+	path = bundle/vim-toml
+	url = git@github.com:cespare/vim-toml
