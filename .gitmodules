@@ -101,3 +101,6 @@
 [submodule "bundle/vim-toml"]
 	path = bundle/vim-toml
 	url = git@github.com:cespare/vim-toml
+[submodule "bundle/vim-toml-enhance"]
+	path = bundle/vim-toml-enhance
+	url = git@github.com:maralla/vim-toml-enhance
