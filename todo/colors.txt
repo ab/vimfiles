@@ -12,3 +12,10 @@ add TODO in a sample file
 
 try just changing comment color in default bg=dark scheme
 
+2020 TODO:
+    https://jeffkreeftmeijer.com/vim-16-color/
+    https://github.com/noahfrederick/vim-noctu
+    https://github.com/jeffkreeftmeijer/vim-dim
+    looks like t_Co=8 uses the dark rather than bright colors, which is
+    actually easier on the eyes
+
