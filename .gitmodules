@@ -104,3 +104,6 @@
 [submodule "bundle/vim-toml-enhance"]
 	path = bundle/vim-toml-enhance
 	url = git@github.com:maralla/vim-toml-enhance
+[submodule "bundle/vala.vim"]
+	path = bundle/vala.vim
+	url = https://github.com/vala-lang/vala.vim.git
