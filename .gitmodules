@@ -107,3 +107,6 @@
 [submodule "bundle/vala.vim"]
 	path = bundle/vala.vim
 	url = https://github.com/vala-lang/vala.vim.git
+[submodule "bats.vim"]
+	path = bundle/bats.vim
+	url = https://github.com/aliou/bats.vim.git
