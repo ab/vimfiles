@@ -2,9 +2,6 @@
 	path = bundle/closetag.vim
 	url = https://github.com/ab/closetag.vim.git
     ; url = git@github.com:ab/closetag.vim.git
-[submodule "bundle/detectindent"]
-	path = bundle/detectindent
-	url = https://github.com/ciaranm/detectindent.git
 [submodule "bundle/taglist.vim"]
 	path = bundle/taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
@@ -111,3 +108,6 @@
 [submodule "bats.vim"]
 	path = bundle/bats.vim
 	url = https://github.com/aliou/bats.vim.git
+[submodule "vim-sleuth"]
+	path = bundle/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth
